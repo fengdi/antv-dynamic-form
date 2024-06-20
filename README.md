@@ -73,3 +73,7 @@ set   自定义设置绑定值
 | RichText  | 富文本可视化编辑器  |
 | MonacoEditor  | 代码编辑器（vscode）  |
 
+
+## demo组件预览
+![输入图片说明](public/%E7%81%AB%E7%8B%90%E6%88%AA%E5%9B%BE_2024-06-20T08-01-34.951Z.png)
+
