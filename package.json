@@ -1,8 +1,8 @@
 {
   "name": "antv-dynamic-form",
-  "private": true,
   "version": "0.1.0",
   "type": "module",
+  "main": "src/components/index.vue",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
